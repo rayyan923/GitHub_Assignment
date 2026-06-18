@@ -1,6 +1,6 @@
 # Student Information
 
-**Name:** Muhammad Rayyan Kharadi
+**Name:** Rayyan Kharadi
 
 **Roll Number:** SP26BSAI00411111
 
@@ -8,4 +8,4 @@
 
 **Career Goals:**
 
-My career goal is to become highly skilled in Computer Science and Artificial Intelligence. I aim to build a strong foundation in programming, problem-solving, and software development while continuously learning new technologies. 
+I aim to build a strong foundation in programming, problem-solving, and software development while continuously learning new technologies. 
